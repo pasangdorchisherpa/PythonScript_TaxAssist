@@ -4,7 +4,7 @@
 
 A simple interactive **Python CLI** tool that collects your income sources, deductions/credits, and then estimates your **Canadian federal tax + Saskatchewan provincial tax** (default: **tax year 2025**), including basic CPP and EI estimates.
 
-> ⚠️ This is an educational estimator and **not professional tax advice**. Always confirm results with CRA guidance or a qualified tax professional.
+> This is an educational estimator and **not professional tax advice**. Always confirm results with CRA guidance or a qualified tax professional.
 
 ---
 
