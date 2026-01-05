@@ -50,3 +50,9 @@ No external libraries required.
 
 ```bash
 python taxassist.py
+```
+
+---
+
+## Screenshot
+![DEMO](Screenshot/image.png)
