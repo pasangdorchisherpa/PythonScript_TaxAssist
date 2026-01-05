@@ -1,0 +1,32 @@
+Enter the number of income sources you had this year: 1
+
+--- Income Source 1 ---
+Enter the income source name (e.g., Employment, Scholarship, Rental, Investment): Employment
+Enter the amount for Employment (CAD): 60000
+Is Employment taxable? (yes/no): yes
+Choose slip type for Employment from: T4, T4A, T5, T3, None
+Slip type: T4
+
+---
+
+===== ENTER DEDUCTIONS & CREDITS =====
+Enter RRSP contributions (CAD): 8000
+Enter union/professional dues (CAD): 600
+Enter childcare expenses (CAD): 0
+Enter tuition paid (CAD): 4500
+Enter eligible medical expenses (CAD): 1200
+Enter charitable donations (CAD): 500
+
+---
+
+===== TAX CALCULATION SUMMARY =====
+Gross Income: $60,000.00
+Taxable Income (after deductions): $51,400.00
+Federal Tax (after credits): $4,369.27
+Provincial Tax (after credits): $2,845.45
+CPP Contribution: $2,850.05
+EI Contribution: $842.96
+Total Tax Payable: $10,907.73
+Net (After-Tax) Income: $49,092.27
+Effective Tax Rate: 18.18%
+
